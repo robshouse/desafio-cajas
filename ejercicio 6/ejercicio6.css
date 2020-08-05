@@ -1,0 +1,12 @@
+#chistes{
+    position: relative;
+   }
+   .sobre {
+    position:absolute;
+    top:180px;
+    left:220px;
+    border:none;
+    width: 60px;
+    height: 60px;
+
+   }

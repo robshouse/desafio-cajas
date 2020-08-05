@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+   
+    }
+    .main {
+    margin: 5px;
+    }
+    
+    .box1 {
+    border: 2px solid #808080;
+    height: 250px;
+    width: 23%;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 25px;
+   
+    }
+    .box2 {
+    border: 2px solid #808080;
+    height: 250px;
+    width: 23%;
+    padding: 5px;
+    display: inline-block;
+    }
+    .box3 {
+    border: 2px solid #808080;
+    height: 250px;
+    width: 23%;
+    padding: 5px;
+    display: inline-block;
+    }
+    .box4 {
+    border: 2px solid #808080;
+    height: 250px;
+    width: 23%;
+    padding: 5px;
+    display: inline-block;
+    text-align: inherit;
+    }
+    .logo1{
+    width: 40%;
+    display: block;
+    
+    }
+    p {
+        margin: 2% ;
+    }
+    #inicio {
+        background: green;
+    }
